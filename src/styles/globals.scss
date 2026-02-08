@@ -1,0 +1,12 @@
+@use 'variables';
+@use 'mixins';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f9fafb;
+}
